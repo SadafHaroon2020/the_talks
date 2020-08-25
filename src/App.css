@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+.body{
+  background: #fff;
+  font-family: "Georgia Pro W01","Georgia",serif;
+  font-weight: 200;
+  font-size: 100%;
+  line-height: 1.375;
+  color: #000;
+}
 .nav_ul{
   list-style: none;
   margin: 0;
@@ -36,6 +44,27 @@ a{
 }
 .wrapper_box{
   display: grid;
-  grid-template-columns: 330px 330px 330px;
+  grid-template-columns: 400px 400px;
  
+}
+.image_001{
+  width:50vw;
+  height:80vh;
+}
+.grid_image{
+  width: 15vw;
+  height: 17vh;
+  padding-top: 5px;
+  padding-bottom: 18px;
+    /* background: rgba(0,0,0,0.5);
+    transition: opacity .3s ease;
+    opacity: 0.5; */
+    cursor:pointer;
+}
+.links_box{
+  text-align: center;
+  margin-left: 10px;
+}
+.left_side{
+  display: flex;
 }

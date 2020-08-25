@@ -1,6 +1,7 @@
 import React from 'react';
 import NavigationBar from './components/NavigationBar'
 import InterviewSection from './components/InterviewSection'
+import Article from './components/Article'
 
 import './App.css';
 
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
   <NavigationBar/>
   <InterviewSection/>
+  <Article/>
     </div>
   );
 }
