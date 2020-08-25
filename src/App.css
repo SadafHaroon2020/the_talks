@@ -36,6 +36,6 @@ a{
 }
 .wrapper_box{
   display: grid;
-  grid-template-columns: 200px 200px 200px;
-  border:solid;
+  grid-template-columns: 330px 330px 330px;
+ 
 }
