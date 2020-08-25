@@ -26,3 +26,16 @@ a{
   list-style: none;
   color: black;
 }
+.interview_div{
+  display: flex;
+  padding: 10px;
+ 
+}
+.child1{
+  flex:1;
+}
+.wrapper_box{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  border:solid;
+}
