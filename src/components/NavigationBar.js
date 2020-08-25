@@ -17,9 +17,9 @@ class NavigationBar extends React.Component{
                 <div className="nav_div">
                 
                         <ul className = "nav_ul">
-                        <li><Link to = '/thetalks'>The Talks</Link></li>
-                        <li><Link to = '/interviewDirectory'>Interview Directory</Link></li>
-                        <li><Link to = '/worldguide'>World Guide</Link></li>
+                        <li className="list_item"><Link to = '/thetalks'>The Talks</Link></li>
+                        <li className="list_item"><Link to = '/interviewDirectory'>Interview Directory</Link></li>
+                        <li className="list_item"><Link to = '/worldguide'>World Guide</Link></li>
                         </ul>
                   
                     <Switch>
