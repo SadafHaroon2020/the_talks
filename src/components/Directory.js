@@ -23,14 +23,14 @@ const Directory=()=>{
         <div>
             <h3>Interview Directory</h3>
             <div className="wrapper_box">
-                <div><img className="grid_image box1" src={image1} alt="Box Image"/><a className="links_box"href="https://www.w3schools.com">ARCHITECTURE</a></div>
-                <div><img className="grid_image " src={image2} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">ART</a></div>
-                <div><img className="grid_image" src={image3} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">FASHION</a></div>
-                <div><img className="grid_image" src={image4} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">FILM</a></div>
-                <div><img className="grid_image" src={image5} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">FOOD</a></div>
-                <div><img className="grid_image" src={image6} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">LIERATURE</a></div>
-                <div><img className="grid_image" src={image7} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">SPORTS</a></div>
-                <div><img className="grid_image" src={image8} alt="Box Image" /><a className="links_box" href="https://www.w3schools.com">MUSIC</a></div>
+                <div><img className="grid_image box1" src={image1} alt="Box Image"/><a className="links_box"href="https://the-talks.com/">ARCHITECTURE</a></div>
+                <div><img className="grid_image " src={image2} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">ART</a></div>
+                <div><img className="grid_image" src={image3} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">FASHION</a></div>
+                <div><img className="grid_image" src={image4} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">FILM</a></div>
+                <div><img className="grid_image" src={image5} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">FOOD</a></div>
+                <div><img className="grid_image" src={image6} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">LIERATURE</a></div>
+                <div><img className="grid_image" src={image7} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">SPORTS</a></div>
+                <div><img className="grid_image" src={image8} alt="Box Image" /><a className="links_box"href="https://the-talks.com/">MUSIC</a></div>
             </div>
             <Switch>
 
