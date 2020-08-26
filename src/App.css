@@ -41,6 +41,7 @@ a{
 }
 .child1{
   flex:1;
+  padding-bottom: 20px;
 }
 .wrapper_box{
   display: grid;
@@ -56,10 +57,7 @@ a{
   height: 17vh;
   padding-top: 5px;
   padding-bottom: 18px;
-    /* background: rgba(0,0,0,0.5);
-    transition: opacity .3s ease;
-    opacity: 0.5; */
-    cursor:pointer;
+ cursor:pointer;
 }
 .links_box{
   text-align: center;
@@ -67,4 +65,17 @@ a{
 }
 .left_side{
   display: flex;
+}
+.article_button{
+  
+  padding:8px;
+  font-size: 18px;
+  background-color: black;
+  color: aliceblue;
+  cursor:pointer;
+}
+.article_2{
+  font-style: italic;
+  font-size: 24px;
+  font-weight: bold;
 }
